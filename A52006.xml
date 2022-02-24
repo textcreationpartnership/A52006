@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marqves of Clanrickards engagement of the nineteenth of November, 1646</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52006</idno>
+            <idno type="STC">Wing M707</idno>
+            <idno type="STC">ESTC R4549</idno>
+            <idno type="EEBO-CITATION">12632586</idno>
+            <idno type="OCLC">ocm 12632586</idno>
+            <idno type="VID">64804</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64804)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 966:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marqves of Clanrickards engagement of the nineteenth of November, 1646</title>
+                  <author>Clanricarde, Ulick de Burgh, Earl of, 1604-1657.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Kilkenny :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Ireland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="oath">
+            <pb facs="tcp:64804:1" rendition="simple:additions"/>
+            <pb facs="tcp:64804:1" rendition="simple:additions"/>
+            <head>THE MARQVES OF CLANRICKARDS ENGAGEMENT Of the nineteenth of November, 1646.</head>
+            <p>
+               <seg rend="decorInit">V</seg>Pon the engagement and Proteſtation of the Ge<g ref="char:EOLhyphen"/>neralls Nobilitie and Officers of the Confederate Catholiques Forces hereunto annexed, I <hi>Vllycke,</hi> Marques of <hi>Clanrickard,</hi> doe on my pair, ſolemn<g ref="char:EOLhyphen"/>ly bind and engage my ſelfe, unto them, by the reputation and honour of a Peere, and by ſacred Proteſtation upon the faith of a Catholique, in the preſence of Almighty God, that I will procure the enſuing undertakings to be made good unto them, within ſuch convenient time, as ſecurities of that nature, which are to be fetcht from beyond, can well be procured, and at the furtheſt by the firſt day of September next enſuing the date hereof, or failing therein to unite my ſelfe to their parties, and never to ſever from them, and theſe their Intereſts till I have ſecured them unto them.</p>
+            <p>Firſt, That there shall be a revocation by act of Parliament of all the Lawes in force within this kingdome, in as much as shall concerne any penaltie, inhibition or reſtraint upon Ca<g ref="char:EOLhyphen"/>tholiques, for the free exerciſe of their Religion</p>
+            <p>Secondly, that they shall not be diſturbed in the enjoyment of their Churches, or any other Eccleſiaſticall poſſeſſions which were in their hands at the publication of the late Peace, untill that matters with others referred already, receive a ſettlement upon a declaration of His Majeſties gracious inten<g ref="char:EOLhyphen"/>tions in a free Parliament held in this kingdome, His Majeſtie being in a free condition himſelfe.</p>
+            <p>Thirdly, And I doe further engage my ſelfe never to con<g ref="char:EOLhyphen"/>ſent to any thing that may bring them in hazard of being diſ<g ref="char:EOLhyphen"/>poſſeſſed, and never to ſever from them, till I ſee them ſo ſe<g ref="char:EOLhyphen"/>cured therein, either by Conceſſion or by their truſt and po<g ref="char:EOLhyphen"/>wer
+<pb facs="tcp:64804:2" rendition="simple:additions"/> in the Armies and Gariſons of this kingdome, as to put them out of all danger of being diſpoſſeſſed.</p>
+            <p>Fourthly, And I doe further engage my ſelfe, that forth<g ref="char:EOLhyphen"/>with there shall be a Catholique Lieutenant Generall of all the Forces of the kingdome inveſted by His Majeſties authoritie, and that the Generalls or either of them ſigning to the ſaid en<g ref="char:EOLhyphen"/>gagement shall be forthwith inveſted by His Majeſties Autho<g ref="char:EOLhyphen"/>ritie with principall Commands worthy of them, in the ſtan<g ref="char:EOLhyphen"/>ding Army of this kingdome, and likewiſe in ſome important Gariſons now under His Majeſties obedience, and that a con<g ref="char:EOLhyphen"/>ſiderable number of the Confederate Catholique Forces shall immediatly be drawne into all the Chiefe Gariſons under His Majeſties obedience; And I doe further aſſure proportionable advantages to ſuch of any other Armyes in this kingdome, as shall in like manner ſubmit unto the Peace and His Majeſties authoritie.</p>
+            <p>Fiftly, This for ſecuritie of as many of thoſe particulars, as shall not forth with be performed; and made good unto them by the Lord Marques of <hi>Ormond</hi> His Majeſties Lieutenant Go<g ref="char:EOLhyphen"/>vernor of this kingdome, I will procure them the Kings hand, the Queene and Prince of Wales His engagement; and an en<g ref="char:EOLhyphen"/>gagement of the Crowne of <hi>France</hi> to ſee the ſame performed unto them.</p>
+            <p>Sixtly, And further, for their aſſurance that my Lord Lieu<g ref="char:EOLhyphen"/>tenant shall engage himſelfe punctually to obſerve ſuch free Commands as he shall receive from His Majeſtie, to the advan<g ref="char:EOLhyphen"/>tage of the Catholiques of this kingdome, or during the Kings want of freedome ftom the Queene or Prince of Wales, or ſuch as shall be ſignified to him as the Kings poſitive pleaſure by the Lord <hi>Digby,</hi> as principall Secretarie of State; And further that whileſt the King shall be in an unfree Condition, he will not obey any orders, which shall be procured from His Majeſtie, by advantage of His Majeſties want of freedome, to the prejudice of what is undertaken.</p>
+            <p>And Laſtly, I doe proteſt that I shall never eſteeme my ſelfe diſcharged from this engagement, by any power or authoritie whatſoever.</p>
+            <p>Provided on both parts, that this engagement and underta<g ref="char:EOLhyphen"/>king
+<pb facs="tcp:64804:2"/> be not underſtood or extended to debarre or hinder His Majeſties Catholique Subjects of this kingdome, from the be<g ref="char:EOLhyphen"/>nefit of any further graces and favours which His Majeſtie may be graciouſly enduced to concede unto them, upon the Queens Majeſties mediation, or any other treatie abroad with His Ho<g ref="char:EOLhyphen"/>lineſſe.</p>
+            <p>And I doe further engage my ſelfe to imploy my utmoſt en<g ref="char:EOLhyphen"/>deavour and power by way of petition, ſolicitation, and per<g ref="char:EOLhyphen"/>ſuaſion to His Majeſtie to affoord all the Subjects of this king<g ref="char:EOLhyphen"/>dome, that shall appeare to have been injured in their eſtates redreſſe in the next free Parliament.</p>
+            <p>And I doe alſo further undertake, that all perſons joyning, or that shall joyne in the preſent engagement shall be included in the act of Oblivion promiſed in the articles of Peace for any acts done by them ſince the publication of the ſaid Peace unto the date of the ſaid engagement.</p>
+            <closer>
+               <signed>Signed <hi>Clanrikard.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="proclamation">
+            <head>BY THE COVNCELL AND CONGREGATION.</head>
+            <opener>
+               <dateline>
+                  <hi>Kilkenny</hi> 
+                  <date>24. <hi>November,</hi> 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>EE taking into conſideration an Inſtrument intituled <hi>the Marques of Clanrickard his En<g ref="char:EOLhyphen"/>gagement of the nineteenth of Novermber,</hi> 1646. doe firſt obſerve that his Lordship is qualified with no knowne authoritie that might enable him to make good the undertakings therein expteſſed (if they did containe advantagious Conceſſions) as they doe not, and then let any man judge that looks with an indifferent eye whether the Peace of a kingdome to follow thereupon be grounded on ſufficient fundation.</p>
+            <p>The next to be conſidered is the third Article, where it is
+<pb facs="tcp:64804:3"/> expreſt, that there shall be a revocation of all the lawes in force in this kingdome in as much as shall concerne any penaltie, in<g ref="char:EOLhyphen"/>hibition or reſtraint upon Catholiques for the free exerciſe of their Religion.</p>
+            <p>Theſe words ſeeme plauſible, but he that will looke into <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Statute of 2. <hi>Elizabethae</hi> in the 1. 2. 3. and fourth Chap<g ref="char:EOLhyphen"/>ters and other the Statutes of force within this kingdome, will find that no Bishop can be made or conſecrated, or doe the of<g ref="char:EOLhyphen"/>fice of a Bishop in conferring orders of Prieſthood, or grant<g ref="char:EOLhyphen"/>ing diſpenſations or faculties, or any Prieſt exerciſe his Functi<g ref="char:EOLhyphen"/>on after the Rites of the Roman Catholique Church by autho<g ref="char:EOLhyphen"/>ritie of the Sea of Rome, but that by expreſſe words of the ſaid Statute of 2. <hi>Eliz.</hi> in one of the ſaid Chapters, the firſt offence of that nature is under paine of <hi>Premunire,</hi> which extends to impriſonment during life, and the forfeiture of goods and lands, the ſecond offence is Fellony, and the third offence a<g ref="char:EOLhyphen"/>gainſt that law is High-Treaſon in the principalls a betters, re<g ref="char:EOLhyphen"/>lievers, and maintainers, &amp;c. and the words of the ſaid firſt Ar<g ref="char:EOLhyphen"/>ticle doe extend onely to the revocation of the penalties againſt the exerciſe of Religion, which will not take away the branches of thoſe lawes, that are againſt the exerciſe of Spirituall Iuriſ<g ref="char:EOLhyphen"/>dictions, or functions, ſo as all our Prelates and Prieſts are left ſubject to the former dangers, which doubtleſſe the Con<g ref="char:EOLhyphen"/>federate Catholiques did intend to free them from upon the taking of their oath of aſſociation, by one of the Chapters of that Statute of 2. <hi>Eliz.</hi> Catholique Service or Maſſe is exclu<g ref="char:EOLhyphen"/>ded out of the Churches, and the Common Prayer Booke which the Proteſtants uſed, introduced, and cleerely for any thing mentioned in the ſaid firſt Article, no Maſſe can be ſaid in any Church without incurring the penaltie ordained by that law, and thoſe that are verſed in the late treatie with the Lord Lieutenant doe well know, and all others that ſaw an Inſtru<g ref="char:EOLhyphen"/>ment ſent by the Lord Lieutenant in a letter of the ſeventh of Auguſt, 1644. importing a briefe of Collections, whereby the ſinging, ſaying and hearing of Maſſe, was granted, may ob<g ref="char:EOLhyphen"/>ſetve that notwithſtanding that Conceſſion the Lord Lieure<g ref="char:EOLhyphen"/>nant, did adde a <hi>Proviſo</hi> that no Maſſe should be ſaid or ſung, in Churches Cathedrall or Parochiall, or Chappell thereunto
+<pb facs="tcp:64804:3"/> belonging, by meanes whereof, and of an expreſſe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> grant the Catholiques libertie to have a Catholique <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> any authoritie from the Sea of Rome, and for want of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Conceſſions in matters of Religion without <hi>Proviſoes</hi> or C<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> that would ſpoyle them, matters of Religion, were referred by the late Articles to further or other Conceſſions, and as we are taught by the tenents of Catholique Doctrine, that there can be no Catholique Religion nor eſſentiall parts thereof with out Bishops, who in matters of Religion depend and ought to depend of the Sea Apoſtolique, and without Prieſt, made by ſuch Bishops, or the Pope himſelfe, nor the Sacrament, admi<g ref="char:EOLhyphen"/>niſtred without ſuch Prelates, and Paſtors, thereof are the exer<g ref="char:EOLhyphen"/>ciſe of Religion as to thoſe, and ſeverall other particulars eſſen<g ref="char:EOLhyphen"/>tiall ought to be made certaine; or elſe that the ſaid Statuts of 2. <hi>Eliz.</hi> and the Statuts of Faculties 28. <hi>H.</hi> 8. be totally repea<g ref="char:EOLhyphen"/>led as to His Majeſties Roman Catholique Subjects, and a pro<g ref="char:EOLhyphen"/>viſion made by act of Parliament for Roman Catholique Bi<g ref="char:EOLhyphen"/>shops and Paſtors to be and remaine in this kingdom with im<g ref="char:EOLhyphen"/>punitie.</p>
+            <p>Vpon conſideration of the ſecond Article, where it is expreſt that they shall not be diſturbed in the enjoyment of their Churches or any other Eccleſiaſticall poſſeſſions, which were in their hands at the publication of the late Peace, untill that matter with other referred alreadie, receive a ſettlement upon a Declaration of His Majeſties Gracious intentions in a free Parliament held in this kingdome, His Majeſtie being in a free Condition himſelfe. It is apparant by this ſecond Article, be<g ref="char:EOLhyphen"/>ſides what is ſaid before, that the firſt Article concerning the re<g ref="char:EOLhyphen"/>vocation of the penal lawes is not intended by the undertaking of that engagement to extend to the taking away of the penall Lawes that prohibit Maſſe to be ſaid in Churches, and ſeem<g ref="char:EOLhyphen"/>eth as to the Churches to put us by our owne aſſent, to this Propoſition, in worſe Condition than we were by the late re<g ref="char:EOLhyphen"/>jected Peace for then and ſtill we have the reſolution of the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly expreſſed in an order to hold our Churches al<g ref="char:EOLhyphen"/>wayes and not to part with them, and now if this ſecond Ar<g ref="char:EOLhyphen"/>ticle were agreed on, wee expreſſe onely a promiſſive enjoy<g ref="char:EOLhyphen"/>ing of them untill Parliament, and ſo are left as to that in a
+<pb facs="tcp:64804:4"/> worſe Condition then before, and even untill Parliament it ſelfe, there is no ſecuritie at all for Churches or Church-li<g ref="char:EOLhyphen"/>vings within our Quarters other then the undertaking of the ſaid Lord Marques of <hi>Clanrickard,</hi> who is ſubject to mortalitie, and changes, as other mortall men, and who was never yet of our union, and admit this were an aſſurance untill Parliament, the ſame will ſall, on the Kings Declaration to the Contrary, if in a free Condition, which Declaration to be contrary, may probably be expected ſo long as His Majeſtie is of a different Religion, and before that Parliament be, all perſons engaged or to be <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, are ſubject to mortalitie, upon all which we <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> at all for Churches or Church-livings.</p>
+            <p>As to the third, it contayneth no Conceſſion, and is but an engagement of the ſaid Lord Marques his word, which is un<g ref="char:EOLhyphen"/>certaine and unſafe to rely on, without mentioning what Ga<g ref="char:EOLhyphen"/>riſons, and what Catholiques in them, and what number and by whom they are to be Commanded in regard the Comman<g ref="char:EOLhyphen"/>der in chiefe may by his order remove or alter them as he ſees cauſe, without looking after the Lord Marques of <hi>Clanrickard</hi> for adviſe or conſent, and in effect, if the number to be put in<g ref="char:EOLhyphen"/>to Gariſon be not ſo aſcertained that it may maſter the reſt there from the Proteſtant partie, it is but to offer our men to the ſlaughter, and expoſe our ſelves to what Conditions they pleaſe, our Army abroad being thereby diminished, and the partie put into Gariſon, ſubject to be removed at the pleaſure of him that shall Command in Chiefe.</p>
+            <p>As for the fourth, whither the Catholique Lieutenant Ge<g ref="char:EOLhyphen"/>nerall be of the Catholique union, or faithfull to the ſame, and what Commands to be canferred on our Generalls or Commanders, or upon which of them, or for what time to continue, or to what Chiefe Gariſons they shall be drawne, or in what number, or how long they shall continue there, are wholly uncertaine, and all the particulars are alterable, and ſubject to the will and pleſure of the Chiefe Governour for the time being.</p>
+            <p>The fifth onely is matter of ſecuritie and mends not the conditions granted, if the ſame were obtained as is pro<g ref="char:EOLhyphen"/>pounded, and if our union were diſſolved by any agreement
+<pb facs="tcp:64804:4"/> before performance, what meanes is left us to expect or ob<g ref="char:EOLhyphen"/>taine performance, and certainely where the Lord Marques of <hi>Clanrickard</hi> grounds all he doth in this on his owne under<g ref="char:EOLhyphen"/>taking without warrant from His Majeſtie, We cannot prudent<g ref="char:EOLunhyphen"/>ly ſuppoſe (having no other grounds for it) but His Majeſtie will diſavow it, when he did diſavow the undertaking of the Earle of <hi>Glamorgan</hi> to the Confederate Catholiques made more ſolemnly to the perſons wherewith the government was entruſted, and who had thus far an advantage beyond the Marques of <hi>Clanrickard,</hi> that his Lordships the Earle of <hi>Gla<g ref="char:EOLhyphen"/>morgans</hi> Conceſſions were grounded on His Majeſties knowne authoritie under His Seale Manuall, and atteſted with His Roy<g ref="char:EOLhyphen"/>all ſignature: Whereas the Marques of <hi>Clanrickard</hi> goeth onely on his owne undertaking.</p>
+            <p>As to the ſixt it contained no certaine Command or order which may in future be had from His Majeſtie and being an uncertaine contingencie needeth no anſwer.</p>
+            <p>As to the ſeventh concerning his Lordships undertaking to ſolicite for redreſſe to be had in the next Parliament, therein wee find no manner of aſſurance for all thoſe, who unjuſtly loſt their eſtates in <hi>Ireland,</hi> other then, that the Lord Marques of <hi>Clanrickard</hi> will petition, ſolicite, perſwade, and uſe his beſt endeavours, whereof no man is Iudge but himſelfe, and the event and engagement uncertaine, and the act of oblivion be<g ref="char:EOLhyphen"/>ing onely by that Inſtrument of engagement to extend to thoſe that shall joyne therein, and which engagement is now ſudden<g ref="char:EOLhyphen"/>ly expected to be concluded there; all others of the Nation that are abſent, who cannot joyne therein ſo ſuddenly, and are not privy, are left open to the danger of the extremities of the law both for their lives and eſtate.</p>
+            <p>And laſtly, we conclude, that the Generall Aſſembly now at hand is the only meane left to conclude a certaine ſtable peace, in this kingdome, and no private or particular undertaking of any Subject unqualified with any appearing authority: Beſides the former inducements to ſatisfie you, you ought ſeriouſly to conſider that the Earle of <hi>Glamorgans</hi> Conceſſions ground on His Majeſties authoritie and reade in the Generall Aſſembly held in Lent laſt, and on which they wholly relyed, will by theſe
+<pb facs="tcp:64804:5" rendition="simple:additions"/> Propoſitions (if accepted) be abſolutly waved contrary to the intention of the whole kingdome which we deſire may be ſe<g ref="char:EOLhyphen"/>riouſly reflected on, amongſt the reſt, thoſe Conceſſions by many degrees being more valuable, and grounded on cleerer, authority, then the offers, or undertakings now made.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ioan. Bapt. Archiepiſcopus Firmanus Nuncius Apoſtolicus.</hi>
+                     </item>
+                     <item>
+                        <hi>Io. Clonpert.</hi>
+                     </item>
+                     <item>
+                        <hi>Fr. Pa. Plunket</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Lynch.</hi>
+                     </item>
+                     <item>
+                        <hi>Emer. Clogherenſis.</hi>
+                     </item>
+                     <item>
+                        <hi>Alex. Mac Donnell.</hi>
+                     </item>
+                     <item>
+                        <hi>Fiers Butler.</hi>
+                     </item>
+                     <item>
+                        <hi>Louthe.</hi>
+                     </item>
+                     <item>
+                        <hi>N. Plunket.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <opener>
+               <signed>By the Councell and Congregation.</signed>
+            </opener>
+            <p>VVHereas an Inſtrument intituled the Engagement of the Marques of <hi>Clanrickard</hi> of the nineteenth of Novem<g ref="char:EOLhyphen"/>ber was preſented unto us, importing Propoſitions to induce the Con<g ref="char:EOLhyphen"/>federate Catholiques, to a Peace, on thoſe tearmes, to the defects and uncertainties whereof exceptions are offered and what further is ne<g ref="char:EOLhyphen"/>ceſſarie for the ſetling of the Catholique Religion, and the good of the Nation otherwiſe and to the end all the Confederate Catholiques may cleerely ſee what thoſe offers and anſwers are at full, we have directed them to be ſent to the preſſe, and diſperſed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64804:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
